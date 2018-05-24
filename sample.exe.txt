@@ -3,6 +3,6 @@
 <title>hello<title>
 </head>
 <body>
-‚±‚ñ‚É‚¿‚Í
+<strong>‚±‚ñ‚É‚¿‚Í</strong>
 </body>
 </html>
